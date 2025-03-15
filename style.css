@@ -29,6 +29,9 @@
 
 /* display background colors black on nav bar scroll*/
 
+a.navbar-brand{
+    color:white;
+}
 .navbar-nav .nav-link {
     color: white !important;
 }
